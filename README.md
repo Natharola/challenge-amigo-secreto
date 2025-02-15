@@ -20,7 +20,7 @@ Una aplicación simple en JavaScript para organizar un **Amigo Secreto** de mane
 
 1. **Descarga o clona** el repositorio:
    ```bash
-   git clone https://github.com/usuario/amigo-secreto-challenge.git
+   git clone (https://natharola.github.io/challenge-amigo-secreto/)
    
 2.  **Abre el archivo index.html en un navegador.**
 Agrega nombres en el campo de entrada y presiona "Enter" o el botón correspondiente.
